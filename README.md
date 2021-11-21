@@ -56,6 +56,9 @@ https://eecs490.github.io/eecs490.org/
 
 https://eecs485staff.github.io/eecs485.org/
 
+**EECS 568: Mobile Robotics: Methods and Algorithms**
+
+https://robots.engin.umich.edu/mobilerobotics/
 
 ---
 
@@ -78,10 +81,6 @@ https://www.eecs.umich.edu/courses/eecs201/
 
 https://dijkstra.eecs.umich.edu/kleach/eecs484/f20/
 
-
-**EECS 568: Mobile Robotics: Methods and Algorithms**
-
-https://robots.engin.umich.edu/mobilerobotics/
 
 
 ---
