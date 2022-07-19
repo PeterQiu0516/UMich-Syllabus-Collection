@@ -1,5 +1,5 @@
 # Umich-Syllabus-Collection
-Collection of course syllabus and course websites (mainly EECS) @ Umich.
+Collection of course syllabus and course websites (mainly EECS) @ UMich.
 
 Complete list of EECS courses: https://bulletin.engin.umich.edu/courses/eecs/
 
