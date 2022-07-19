@@ -54,7 +54,7 @@ https://eecs490.github.io/eecs490.org/
 
 **EECS 494: Computer Game Design and Development**
 
-https://eecs485staff.github.io/eecs485.org/
+https://www.eecs494.com/
 
 **EECS 568: Mobile Robotics: Methods and Algorithms**
 
