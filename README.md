@@ -60,9 +60,52 @@ https://eecs485staff.github.io/eecs485.org/
 
 https://robots.engin.umich.edu/mobilerobotics/
 
+
+
+
 ---
 
-### 2020 Fall
+### Fall 2021
+
+
+**EECS 483: Compiler Construction**
+
+https://maxsnew.com/teaching/eecs-483-fa21/
+
+
+**EECS 498: Introduction to Algorithmic Robotics**
+
+https://web.eecs.umich.edu/~dmitryb/courses/fall2021iar/
+
+
+**EECS 542: Advanced Topics in Computer Vision**
+
+https://web.eecs.umich.edu/~fouhey/teaching/EECS542_F21/
+
+
+
+---
+
+### Winter 2021
+
+
+**EECS 442: Computer Vision**
+
+https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/
+
+**EECS 498-004: Introduction to NLP (Now course code changed to EECS 487)**
+
+https://web.eecs.umich.edu/~wangluxy/courses/eecs498_wn2021/eecs498_wn2021.html
+
+
+**EECS 598-012: Unsupervised Visual Learning (similar to EECS 542)**
+
+https://web.eecs.umich.edu/~ahowens/eecs598-012/w21/
+
+
+---
+
+### Fall 2020
 
 
 
@@ -83,37 +126,4 @@ https://dijkstra.eecs.umich.edu/kleach/eecs484/f20/
 
 
 
----
 
-### 2021 Winter
-
-
-**EECS 442: Computer Vision**
-
-https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/
-
-**EECS 498-004: Introduction to NLP (Now course code changed to EECS 487)**
-
-https://web.eecs.umich.edu/~wangluxy/courses/eecs498_wn2021/eecs498_wn2021.html
-
-
-**EECS 598-012: Unsupervised Visual Learning (similar to EECS 542)**
-
-https://web.eecs.umich.edu/~ahowens/eecs598-012/w21/
-
-
-
-
----
-
-### 2021 Fall
-
-
-**EECS 483: Compiler Construction**
-
-https://maxsnew.com/teaching/eecs-483-fa21/
-
-
-**EECS 542: Advanced Topics in Computer Vision**
-
-https://web.eecs.umich.edu/~fouhey/teaching/EECS542_F21/
